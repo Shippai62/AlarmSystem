@@ -1,0 +1,9 @@
+Arduino Uno
+Breadboard
+LED & 220 ohms resistor
+Buzzer
+Magnetic Reed/Door Switch
+Touch Sensor / PIR Sensor
+LCD
+
+Optional: 5V Battery & On/off switch
